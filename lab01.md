@@ -14,7 +14,8 @@
 
 > 这一步《尼尔：机械纪元》的世界观非常偏向于科幻的风格，而它的前一部作品《尼尔：完全形态&伪装者(NieR Replicant/Gestalt)》却是一个幻想世界的世界观，所以在科幻的基础上还要组合和一些幻想风格的元素。在这个时候，木嶋先生决定不用华美来进行装饰，而是用精细的布局与平面的基准为主旨来设计。但此时木嶋先生意识到，如果单纯以这个形式来进行设计的话会显得过于平淡，所以木嶋先生决定将乐谱的元素融合进入此次设计。（题外话，机械纪元里的音乐堪称史诗，玩游戏的时候只注意到它的背景音乐的美，没想到这个设计界面也有音乐的元素。）
 
-[1]https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%B0%BC%E5%B0%94%E6%9C%BA%E6%A2%B0%E7%BA%AA%E5%85%83&step_word=&hs=0&pn=104&spn=0&di=134581060570&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3724629955%2C2379575824&os=3122744571%2C2788902873&simid=4176761194%2C478632459&adpicid=0&lpn=0&ln=1834&fr=&fmq=1538216921237_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fi1.hdslb.com%2Fbfs%2Farchive%2Faf1cb59c9cd0d430e1b697d922cdf16b30302221.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bktstktst_z%26e3Bv54AzdH3Fet1j5AzdH3Fwe8a9lnm0a&gsm=3c&rpstart=0&rpnum=0&islist=&querylist=
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/ipoCDp/u_3724629955_2379575824_fm_26_gp_0.jpg" alt="u_3724629955_2379575824_fm_26_gp_0" border="0"></a>
+
 
 3. <font color=NavajoWhite>以米色为基准的颜色控制</font>
 
@@ -34,25 +35,28 @@
 -------
 ###   <font color=Tomato >二周目浅谈游戏感受:</font>
 
-http://www.ali213.net/zt/nier/largeImg/large9.html
+<a href="https://ibb.co/cw09tp"><img src="https://preview.ibb.co/hL5aYp/9.jpg" alt="9" border="0"></a>
 
 >进入游戏，扑面而来的是一股荒凉的气息，残破的楼房，地面草木失去控制地疯长，巨大的动物漫无目的地闲逛，游戏就在这样一个末世里展开。由于外星人的入侵，人类（逃去）月球，地球由于长达千年的战争，已经千疮百孔。由于这样的背景和环境，可以说游戏是笼罩在一种悲凉的氛围之中。
 
-http://www.ahgame.com/uploads/allimg/170510/1-1F510102016.jpg
+<a href="https://ibb.co/ecT7eU"><img src="https://preview.ibb.co/fA4fzU/1_1_F510102016.jpg" alt="1_1_F510102016" border="0"></a>
 
 >我想说一下尼尔这个游戏的音乐，这个游戏不是我玩过最好的游戏，甚至连前三都排不到，但它一定是我玩过音乐最棒的游戏。它的音乐是会随着场景的变换而更替，场景荒凉，音乐也会变得悲伤，不仅如此，它还会随着角色的选取而变换。我常常听着音乐而忘记其它的，将自己代入音乐的氛围之中，仿佛能感受到这种末世的孤独之感。这个游戏在画面上有些粗糙，玩了一段时间后也能感受到地图其实很小，游戏流程也不算长，可以说有些许枯燥，但是，在音乐的辅助下，本作在环境刻画下弥补了画质的不足。
 
 >本作获得2017年年度TGA最佳游戏配乐可谓实至名归。毫不夸张地说,本作的原声是近几年来游戏史上的典范之作。动态音乐系统更是锦上添花。有人说其实这个游戏作为一个游戏来说并不算合格，因为它有很多纰漏，但是，尼尔是游戏艺术，它被称为第九艺术毫不夸张，我这种外行都能感受到它的艺术氛围。
 
-http://photos.pcgames.com.cn/source/781396.html
+<a href="https://ibb.co/eCH3m9"><img src="https://preview.ibb.co/jMvZtp/15727711_1481200300803.jpg" alt="15727711_1481200300803" border="0"></a>
 
-http://photos.pcgames.com.cn/group/785113.html
+<a href="https://ibb.co/fY8OKU"><img src="https://preview.ibb.co/etqsDp/15732137_1483968852683.jpg" alt="15732137_1483968852683" border="0"></a>
 
 --------
 
 第一次博客，写了很多也抄了很多，希望以后越来越好。
 
+
                             2018. 9.29
+                            
+                        
 
 
 
