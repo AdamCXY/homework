@@ -45,9 +45,11 @@
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/crwjYp/1.png" alt="1" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/analysis-of-a-psalm-of-life-by-henry-wadsworth-longfellow'>a psalm of life critical appreciation</a><br />
 
 尝试运行游戏，玩家现在可以像以前一样移动，但总是面向鼠标。这就是一个基本的event设计了。
+如下面的gif演示，可以看到，player总是面向鼠标。
+
+<a href="https://ibb.co/n2RbUU"><img src="https://preview.ibb.co/ctrX3p/1.gif" alt="1" border="0" /></a>
 
 ```java
   通过以上的操作，我们可以学习到关于设计event的一点小小的技巧，以此类推，通过这些基本操作，我们便可以掌握如何设计其它的event了。不过这也需要加强自己的英语水平以便去理解每个actio的意义。
 ```
 
-<a href="https://ibb.co/n2RbUU"><img src="https://preview.ibb.co/ctrX3p/1.gif" alt="1" border="0" /></a>
