@@ -49,3 +49,5 @@
 ```java
   通过以上的操作，我们可以学习到关于设计event的一点小小的技巧，以此类推，通过这些基本操作，我们便可以掌握如何设计其它的event了。不过这也需要加强自己的英语水平以便去理解每个actio的意义。
 ```
+
+<a href="https://ibb.co/n2RbUU"><img src="https://preview.ibb.co/ctrX3p/1.gif" alt="1" border="0" /></a>
