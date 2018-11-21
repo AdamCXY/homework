@@ -14,7 +14,9 @@
 
 方程为： 
 > 2x<sub>1 </sub>+3x<sub>2 </sub>+6x<sub>3 </sub>=5
+
 > 5x<sub>1 </sub>+3x<sub>2 </sub>+5x<sub>3 </sub>=-3
+
 > 8x<sub>1 </sub>-3x<sub>2 </sub>+6x<sub>3 </sub>=7
 
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/d3s3xA/4.png" alt="4" border="0" /></a>
