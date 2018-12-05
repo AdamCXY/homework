@@ -32,7 +32,7 @@ char map[12][13] = {"************",
 
 
 int snakeX[SNAKE_MAX_LENGTH]={1,2,3,4,5};
-int snakeY[SNAKE_MAX_LENGTH]={1,1,1,1,1};//ÉßÉíºÍÉßÍ·µÄ×ø±ê
+int snakeY[SNAKE_MAX_LENGTH]={1,1,1,1,1};//è›‡èº«å’Œè›‡å¤´çš„åæ ‡
 int snakeLength = 5;
 int game = 1;//run the game
 
@@ -74,18 +74,18 @@ void snakeMove(int x,int y){
 	   map[snakeY[snakeLength-1]+y][snakeX[snakeLength-1]+x] == SNAKE_HEAD;
 	   map[snakeY[snakeLength-1]][snakeX[snakeLength-1]] == SNAKE_BODY;
 	   snakeLength++;
-//¼ÇÂ¼ĞÂµÄÍ·µÄÎ»ÖÃ£¬ºóÃæµÄ²¿·ÖÃ»±ä£¬Ö®Ç°Í·µÄµØ·½±äÎªÁËbody	   
+//è®°å½•æ–°çš„å¤´çš„ä½ç½®ï¼Œåé¢çš„éƒ¨åˆ†æ²¡å˜ï¼Œä¹‹å‰å¤´çš„åœ°æ–¹å˜ä¸ºäº†body	   
 	   snakeY[snakeLength-1] = snakeY[snakeLength-2] + y;
 	   snakeX[snakeLength-1] = snakeX[snakeLength-2] + x;
 	   put_money();
 	   return;
 	}
 	
-	map[snakeY[0]][snakeX[0]] = BLANK_CELL;//Î²²¿±äÎª¿Õ°× 
-	map[snakeY[snakeLength-1]][snakeX[snakeLength-1]] = SNAKE_BODY;//Ô­ÏÈÍ·µÄÎ»ÖÃ±äÎªÁËÉíÌå£¨ÖĞ¼äµÄÈı¸ö*²»ÓÃ±ä£© 
-	map[snakeY[snakeLength-1]+y][snakeX[snakeLength-1]+x] = SNAKE_HEAD;//Í·²¿ÒÆ¶¯£¬½áºÏ¶şÎ¬Êı×éË¼¿¼ÔõÃ´ÒÆ¶¯£»
+	map[snakeY[0]][snakeX[0]] = BLANK_CELL;//å°¾éƒ¨å˜ä¸ºç©ºç™½ 
+	map[snakeY[snakeLength-1]][snakeX[snakeLength-1]] = SNAKE_BODY;//åŸå…ˆå¤´çš„ä½ç½®å˜ä¸ºäº†èº«ä½“ï¼ˆä¸­é—´çš„ä¸‰ä¸ª*ä¸ç”¨å˜ï¼‰ 
+	map[snakeY[snakeLength-1]+y][snakeX[snakeLength-1]+x] = SNAKE_HEAD;//å¤´éƒ¨ç§»åŠ¨ï¼Œç»“åˆäºŒç»´æ•°ç»„æ€è€ƒæ€ä¹ˆç§»åŠ¨ï¼›
 
-//¸Ä±ä¼ÇÂ¼Ì°³ÔÉßµÄÎ»ÖÃµÄÊı×é	
+//æ”¹å˜è®°å½•è´ªåƒè›‡çš„ä½ç½®çš„æ•°ç»„	
 	for(int i = 0;i<snakeLength-1;i++){ 
 	snakeX[i] = snakeX[i+1];
 	snakeY[i] = snakeY[i+1];
